@@ -51,3 +51,5 @@ See [bitcoin.it wiki](https://en.bitcoin.it/wiki/OP_RETURN).
 
 * [List of free rfc3161 servers](https://gist.github.com/Manouchehri/fd754e402d98430243455713efada710)
 * [Trusted Timestamping - Wikipedia](https://en.wikipedia.org/wiki/Trusted_timestamping)
+* [Creator Assertions Working Group](https://cawg.io/)
+* [Coalition for Content Provenance and Authenticity (C2PA)](https://c2pa.org/)
